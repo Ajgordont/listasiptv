@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",24/7
-http://181.78.73.11:8824/play/a08z/index.m3u8
 #EXTINF:-1 group-title="-",AE HD
 http://181.78.73.11:8824/play/a09d/index.m3u8
 #EXTINF:-1 group-title="-",ALERTA BOGOTA
 http://181.78.73.11:8824/play/a0bt/index.m3u8
-#EXTINF:-1 group-title="-",AMC
-http://181.78.73.11:8824/play/a093/index.m3u8
 #EXTINF:-1 group-title="-",AMC HD
 http://181.78.73.11:8824/play/a09o/index.m3u8
 #EXTINF:-1 group-title="-",AXN HD
@@ -25,32 +21,24 @@ http://181.78.73.11:8824/play/a0bl/index.m3u8
 http://181.78.73.11:8824/play/a08g/index.m3u8
 #EXTINF:-1 group-title="-",Bethel One Second
 http://181.78.73.11:8824/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="-",CANAL 1
+http://181.78.73.11:8824/play/a0by/index.m3u8
+#EXTINF:-1 group-title="-",CANAL INSTITUCIONAL
+http://181.78.73.11:8824/play/a0bx/index.m3u8
 #EXTINF:-1 group-title="-",CARACOL TV HD
 http://181.78.73.11:8824/play/a0bj/index.m3u8
 #EXTINF:-1 group-title="-",CARACOL TV HD2
 http://181.78.73.11:8824/play/a0bk/index.m3u8
-#EXTINF:-1 group-title="-",CHV
-http://181.78.73.11:8824/play/a0as/index.m3u8
-#EXTINF:-1 group-title="-",CHV HD
-http://181.78.73.11:8824/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="-",CNN Espaæol
 http://181.78.73.11:8824/play/a08h/index.m3u8
 #EXTINF:-1 group-title="-",CNN International
 http://181.78.73.11:8824/play/a096/index.m3u8
 #EXTINF:-1 group-title="-",Canal 13 HD
 http://181.78.73.11:8824/play/a09a/index.m3u8
-#EXTINF:-1 group-title="-",Canal 24 Horas
-http://181.78.73.11:8824/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="-",Canal TUVES
-http://181.78.73.11:8824/play/a0a3/index.m3u8
-#EXTINF:-1 group-title="-",Canal de Test 2
-http://181.78.73.11:8824/play/a09l/index.m3u8
 #EXTINF:-1 group-title="-",Cartoon Network HD
 http://181.78.73.11:8824/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="-",Cartoonito
 http://181.78.73.11:8824/play/a099/index.m3u8
-#EXTINF:-1 group-title="-",Cinecanal
-http://181.78.73.11:8824/play/a0b0/index.m3u8
 #EXTINF:-1 group-title="-",Cinecanal HD
 http://181.78.73.11:8824/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="-",Cinemax
@@ -94,8 +82,6 @@ http://181.78.73.11:8824/play/a09b/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 7 HD
 http://181.78.73.11:8824/play/a0b8/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
-http://181.78.73.11:8824/play/a0a1/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
 http://181.78.73.11:8824/play/a0al/index.m3u8
 #EXTINF:-1 group-title="-",ESPN Premium HD
 http://181.78.73.11:8824/play/a0ao/index.m3u8
@@ -103,16 +89,10 @@ http://181.78.73.11:8824/play/a0ao/index.m3u8
 http://181.78.73.11:8824/play/a087/index.m3u8
 #EXTINF:-1 group-title="-",EWTN
 http://181.78.73.11:8824/play/a08s/index.m3u8
-#EXTINF:-1 group-title="-",Ecuador TV
-http://181.78.73.11:8824/play/a08b/index.m3u8
-#EXTINF:-1 group-title="-",Ecuavisa
-http://181.78.73.11:8824/play/a089/index.m3u8
 #EXTINF:-1 group-title="-",El Gourmet HD
 http://181.78.73.11:8824/play/a09f/index.m3u8
 #EXTINF:-1 group-title="-",Enlace
 http://181.78.73.11:8824/play/a08u/index.m3u8
-#EXTINF:-1 group-title="-",Espn Premium
-http://181.78.73.11:8824/play/a0au/index.m3u8
 #EXTINF:-1 group-title="-",FX HD
 http://181.78.73.11:8824/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="-",Food Network
@@ -171,16 +151,24 @@ http://181.78.73.11:8824/play/a0ac/index.m3u8
 http://181.78.73.11:8824/play/a090/index.m3u8
 #EXTINF:-1 group-title="-",RADIO BETHEL
 http://181.78.73.11:8824/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="-",RADIO NACIONAL
+http://181.78.73.11:8824/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="-",RADIONICA
+http://181.78.73.11:8824/play/a0c0/index.m3u8
 #EXTINF:-1 group-title="-",RCN HD
 http://181.78.73.11:8824/play/a0bq/index.m3u8
 #EXTINF:-1 group-title="-",RCN HD 2
 http://181.78.73.11:8824/play/a0br/index.m3u8
 #EXTINF:-1 group-title="-",RCN RADIO UNO
 http://181.78.73.11:8824/play/a0bu/index.m3u8
-#EXTINF:-1 group-title="-",REC TV
-http://181.78.73.11:8824/play/a08x/index.m3u8
 #EXTINF:-1 group-title="-",RTS
 http://181.78.73.11:8824/play/a08f/index.m3u8
+#EXTINF:-1 group-title="-",SEÑAL COLOMBIA
+http://181.78.73.11:8824/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="-",SEÑAL SONORA HJCK
+http://181.78.73.11:8824/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="-",Señal Colombia Móvil
+http://181.78.73.11:8824/play/a0c2/index.m3u8
 #EXTINF:-1 group-title="-",Sony HD
 http://181.78.73.11:8824/play/a0b9/index.m3u8
 #EXTINF:-1 group-title="-",Sony Movies
@@ -193,6 +181,10 @@ http://181.78.73.11:8824/play/a0bh/index.m3u8
 http://181.78.73.11:8824/play/a0ar/index.m3u8
 #EXTINF:-1 group-title="-",TC Televisiðn
 http://181.78.73.11:8824/play/a08d/index.m3u8
+#EXTINF:-1 group-title="-",TELECARIBE
+http://181.78.73.11:8824/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",TELECARIBE PLUS
+http://181.78.73.11:8824/play/a0c4/index.m3u8
 #EXTINF:-1 group-title="-",TLC
 http://181.78.73.11:8824/play/a08m/index.m3u8
 #EXTINF:-1 group-title="-",TNT HD
